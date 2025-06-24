@@ -2,10 +2,9 @@
 
 Eu (13 anos) ->
 
-![Minha foto](me.jpg)
+<img src="me.jpg" width="200" height="330"/>
 
 ## Aqui desabafarei de tudo em minha vida
-
 
 - 18/06/2025 - 17:25
 
