@@ -2,7 +2,7 @@
 
 Eu (13 anos) ->
 
-![Minha foto](20250324_145301.jpg)
+![Minha foto](me.jpg)
 
 ## Aqui desabafarei de tudo em minha vida
 
